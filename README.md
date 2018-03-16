@@ -1,0 +1,2 @@
+# Largest-gap-between-zeros
+Using suitable feasible pairs and convex combinations of Selberg minorant functions, the upper bound under GRH and the Ramanujan hypothesis on the largest gap between consecutive zeros of an entire L-function in Bober, Conrey, Farmer, Fujii, Koutsoliotas, Lemurell, Rubinstein and Yoshida [2] is improved from 45.3236 to 41.54. An application about nonexistence of certain entire L-functions is also provided.
